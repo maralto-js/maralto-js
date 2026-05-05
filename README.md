@@ -43,16 +43,6 @@ Dev Full Stack especializado em **Minecraft Java plugins**. Atualmente desenvolv
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maralto-js&show_icons=true&theme=radical&count_private=true)
-
-</div>
-
----
-
 ## 🏆 Como trabalho?
 
 - ⚡ Crio sistemas que melhoram a **experiência do jogador**
