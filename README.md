@@ -32,7 +32,7 @@ Dev Full Stack especializado em **Minecraft Java plugins**. Atualmente desenvolv
 ## ⚔️ Projetos em Destaque
 ---
 
-### ✦ [NemonicCombatDebug](https://github.com/maralto-js/NemonicCombatDebug)
+### ✦ [NemonicCombatDebug](https://github.com/maralto-js/NemonicCombat)
 > Monitor de combate em tempo real integração total com mythicmobs
 
 - 📊 Logs automáticos de damage, death e projectiles
