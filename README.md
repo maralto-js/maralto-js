@@ -32,13 +32,30 @@ Dev Full Stack especializado em **Minecraft Java plugins**. Atualmente desenvolv
 ## ⚔️ Projetos em Destaque
 ---
 
-### ✦ [NemonicCombatDebug](https://github.com/maralto-js/NemonicCombat)
-> Monitor de combate em tempo real integração total com mythicmobs
+### ✦ [NemonicCombat](https://github.com/maralto-js/NemonicCombat)
+> Monitor de combate em tempo real integração total com mythicmobs e mmocore
 
+- 🎖️ XP Progressivo
 - 📊 Logs automáticos de damage, death e projectiles
 - 🎯 Debug mode toggleável por comando
 - 📈 Estatísticas de combate em tempo real
 - 🔧 Ferramenta essencial para balanceamento de servidor
+
+### ✦ [NemonicMail](https://github.com/maralto-js/NemonicMail)
+> Sistema de cartas imersivo para roleplay em Minecraft Java 1.21+
+
+- 📬 **Escrever & Receber:** Interface completa dentro do jogo
+- 🖼️ **Suporte a Imagens:** URL ou upload direto
+- 🔐 **Permissões:** Sistema granular (IMPORTANTE, OFICIAL, etc)
+- 💾 **Persistência:** Dados salvos entre reinicializações
+- 🎨 **Customizável:** Interface inteira via YAML
+
+### ✦ [NemonicHorse](https://github.com/maralto-js/NemonicHorse)
+> Transforma cavalos em companions estratégicos com habilidades únicas. Integração completa com MMOCore e ItemsAdder.
+
+- 🐴 **Habilidades:** Habilidades especiais em seus companions
+- ⚙️ **Configuração YAML:** Customize tudo sem alterar código
+- 🔐 **Permissões:** Sistema granular via LuckPerms
 
 ---
 
