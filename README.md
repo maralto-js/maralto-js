@@ -21,6 +21,7 @@ Dev Full Stack especializado em **Minecraft Java plugins**. Atualmente desenvolv
 ## 🔧 Stack & Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -30,16 +31,28 @@ Dev Full Stack especializado em **Minecraft Java plugins**. Atualmente desenvolv
 ---
 
 ## ⚔️ Projetos em Destaque
+
 ---
 
 ### ✦ [NemonicCombat](https://github.com/maralto-js/NemonicCombat)
-> Monitor de combate em tempo real integração total com mythicmobs e mmocore
+> Sistema de combate avançado com escalonamento progressivo de dano e XP · Paper 1.21.10 · v1.5.0
 
-- 🎖️ XP Progressivo
-- 📊 Logs automáticos de damage, death e projectiles
-- 🎯 Debug mode toggleável por comando
-- 📈 Estatísticas de combate em tempo real
-- 🔧 Ferramenta essencial para balanceamento de servidor
+- 🎖️ **XP Progressivo:** Ganho entre 0.25× e 3.0× baseado na razão mob/player level
+- ⚔️ **Dano Escalável:** Melee e ranged com fórmulas independentes e clamp configurável
+- 🔗 **Integrações:** MMOCore · MythicMobs · MMOItems · NemonicOrb · PlaceholderAPI
+- 🎯 **Debug mode** toggleável por comando para balanceamento em tempo real
+
+---
+
+### ✦ [NemonicHorse](https://github.com/maralto-js/NemonicHorse)
+> Transforma cavalos em companions estratégicos com habilidades únicas · Minecraft Java 1.21+
+
+- 🐴 **Habilidades:** Ímpeto · Salto Heroico · Casco de Ferro · Esmagar
+- ⚙️ **Configuração YAML:** Customize tudo sem alterar código
+- 🔐 **Permissões:** Sistema granular via LuckPerms
+- 🔗 **Integrações:** MMOCore · ItemsAdder
+
+---
 
 ### ✦ [NemonicMail](https://github.com/maralto-js/NemonicMail)
 > Sistema de cartas imersivo para roleplay em Minecraft Java 1.21+
@@ -50,20 +63,33 @@ Dev Full Stack especializado em **Minecraft Java plugins**. Atualmente desenvolv
 - 💾 **Persistência:** Dados salvos entre reinicializações
 - 🎨 **Customizável:** Interface inteira via YAML
 
-### ✦ [NemonicHorse](https://github.com/maralto-js/NemonicHorse)
-> Transforma cavalos em companions estratégicos com habilidades únicas. Integração completa com MMOCore e ItemsAdder.
+---
 
-- 🐴 **Habilidades:** Habilidades especiais em seus companions
-- ⚙️ **Configuração YAML:** Customize tudo sem alterar código
-- 🔐 **Permissões:** Sistema granular via LuckPerms
+### ✦ [minecraft-statusbot](https://github.com/maralto-js/minecraft-statusbot)
+> Bot Discord com painel auto-atualizável de status do servidor Minecraft · Python · MIT
+
+- 📡 **Embed em tempo real:** Status, players online, versão e ping a cada 30s
+- 🔧 **Zero código:** Configuração 100% via slash commands (`/setstatus`, `/setip`, `/settext`...)
+- 🔊 **Canais de voz dinâmicos** com contagem de players atualizada automaticamente
+- ☁️ **Deploy gratuito:** Discloud · Render · Oracle Cloud
+
+---
+
+### ✦ [nemonicRP](https://github.com/maralto-js/nemonicRP)
+> Servidor profissional de Minecraft RP com foco em imersão e mecânicas realistas · v0.4.1
+
+- 💼 **Economia:** Sistema de trabalho com licenças, ranking dinâmico e impostos reais
+- 🏠 **Residências:** Moradias personalizáveis com sistema de segurança
+- 👥 **Social:** Chat de proximidade, factions e eventos comunitários
+- 🛠️ **Open collab:** Aberto a devs, moderadores e criadores de documentação
 
 ---
 
 ## 🏆 Como trabalho?
 
 - ⚡ Crio sistemas que melhoram a **experiência do jogador**
-- 🛠️ Código limpo
-- 🎮 Inspiração em **ARPGs modernos** e **Mods Nostalgicos** (Diablo, Mo'Creatures)
+- 🛠️ Código limpo, modular e extensível
+- 🎮 Inspiração em **ARPGs modernos** e **Mods Nostálgicos** (Diablo, Mo'Creatures)
 - 🤝 Colaboração e feedback da comunidade
 
 ---
