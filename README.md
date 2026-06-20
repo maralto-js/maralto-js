@@ -12,7 +12,7 @@
 
 ## 🎮 Sobre mim
 
-Dev Full Stack especializado em **Minecraft Java plugins**. Atualmente desenvolvendo ecossistema completo para **NemonicRP**, servidor de RP com foco em imersão e mecânicas profissionais.
+Dev Back-End especializado em **Minecraft Java plugins**. Atualmente desenvolvendo ecossistema completo para **NemonicRP**, servidor de RP com foco em imersão e mecânicas profissionais.
 
 > *"Se eu penso em algo eu consigo criar ele."*
 
