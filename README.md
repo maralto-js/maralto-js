@@ -44,16 +44,6 @@ Dev Back-End especializado em **Minecraft Java plugins**. Atualmente desenvolven
 
 ---
 
-### ✦ [NemonicHorse](https://github.com/maralto-js/NemonicHorse)
-> Transforma cavalos em companions estratégicos com habilidades únicas · Minecraft Java 1.21+
-
-- 🐴 **Habilidades:** Ímpeto · Salto Heroico · Casco de Ferro · Esmagar
-- ⚙️ **Configuração YAML:** Customize tudo sem alterar código
-- 🔐 **Permissões:** Sistema granular via LuckPerms
-- 🔗 **Integrações:** MMOCore · ItemsAdder
-
----
-
 ### ✦ [NemonicMail](https://github.com/maralto-js/NemonicMail)
 > Sistema de cartas imersivo para roleplay em Minecraft Java 1.21+
 
@@ -75,16 +65,6 @@ Dev Back-End especializado em **Minecraft Java plugins**. Atualmente desenvolven
 
 ---
 
-### ✦ [nemonicRP](https://github.com/maralto-js/nemonicRP)
-> Servidor profissional de Minecraft RP com foco em imersão e mecânicas realistas · v0.4.1
-
-- 💼 **Economia:** Sistema de trabalho com licenças, ranking dinâmico e impostos reais
-- 🏠 **Residências:** Moradias personalizáveis com sistema de segurança
-- 👥 **Social:** Chat de proximidade, factions e eventos comunitários
-- 🛠️ **Open collab:** Aberto a devs, moderadores e criadores de documentação
-
----
-
 ## 🏆 Como trabalho?
 
 - ⚡ Crio sistemas que melhoram a **experiência do jogador**
@@ -96,6 +76,6 @@ Dev Back-End especializado em **Minecraft Java plugins**. Atualmente desenvolven
 
 <div align="center">
 
-**Dev @ NemonicRP** • *Building immersive gaming experiences, one plugin at a time*
+**Dev** • *Building immersive gaming experiences, one plugin at a time*
 
 </div>
