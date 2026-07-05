@@ -34,7 +34,7 @@ Dev Back-End especializado em **Minecraft Java plugins**. Atualmente desenvolven
 
 ---
 
-### ✦ [NemonicCombat](https://github.com/maralto-js/NemonicCombat)
+### ✦ [CombatForge](https://github.com/maralto-js/NemonicCombat)
 > Sistema de combate avançado com escalonamento progressivo de dano e XP · Paper 1.21.10 · v1.5.0
 
 - 🎖️ **XP Progressivo:** Ganho entre 0.25× e 3.0× baseado na razão mob/player level
