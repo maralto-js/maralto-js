@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Gabriel+Lopes+%7C+maralto-js;back-end+%40+NemonicRP;Minecraft+Plugins+%7C+Java+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Gabriel+Lopes+%7C+maralto-js;Dev back-end+%40+;Minecraft+Plugins+%7C+Java+Dev" alt="Typing SVG" />
 
 [![Discord](https://img.shields.io/badge/Discord-maraltinho-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/maraltinho)
 [![Email](https://img.shields.io/badge/Email-gabriellopesraio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellopesraio@gmail.com)
