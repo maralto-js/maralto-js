@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Gabriel+Lopes+%7C+maralto-js;Dev+back-end+%40+;Minecraft+Plugins+%7C+Java+Dev" alt="Typing SVG" />
+[![English](https://img.shields.io/badge/lang-English-2ea44f?style=for-the-badge)](README.md)
+[![Português](https://img.shields.io/badge/lang-Portugu%C3%AAs-6e7681?style=for-the-badge)](README.pt-BR.md)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Gabriel+Lopes+%7C+maralto-js;Back-end+Dev+%7C+Java+21;Minecraft+Plugins+%7C+Java+Dev" alt="Typing SVG" />
 
 [![Discord](https://img.shields.io/badge/Discord-maraltinho-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/maraltinho)
 [![Email](https://img.shields.io/badge/Email-gabriellopesraio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellopesraio@gmail.com)
@@ -10,15 +13,15 @@
 
 ---
 
-## 🎮 Sobre mim
+## 🎮 About me
 
-Dev Back-End especializado em **Minecraft Java plugins**. 
+Back-End dev specialized in **Minecraft Java plugins**.
 
-> *"Se eu penso em algo eu consigo criar ele."*
+> *"If I can think of it, I can build it."*
 
 ---
 
-## 🔧 Stack & Tecnologias
+## 🔧 Stack & Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,47 +33,50 @@ Dev Back-End especializado em **Minecraft Java plugins**.
 
 ---
 
-## ⚔️ Projetos em Destaque
+## ⚔️ Featured Projects
 
 ---
 
-### ✦ [CombatForge](https://github.com/maralto-js/NemonicCombat)
-> Sistema de combate avançado com escalonamento progressivo de dano e XP · Paper 1.21.10 · v1.5.0
+### ✦ [CombatForge](https://github.com/maralto-js/CombatForge)
+> Level-based combat & XP engine for RPG servers · Paper 1.21+ · v2.0.0 · **MIT**
 
-- 🎖️ **XP Progressivo:** Ganho entre 0.25× e 3.0× baseado na razão mob/player level
-- ⚔️ **Dano Escalável:** Melee e ranged com fórmulas independentes e clamp configurável
-- 🔗 **Integrações:** MMOCore · MythicMobs · MMOItems · NemonicOrb · PlaceholderAPI
-- 🎯 **Debug mode** toggleável por comando para balanceamento em tempo real
+- 🆓 **Free & open source:** no license key, no paywall, no telemetry
+- 🎖️ **Level-based XP:** mob/player ratio with clamps, sliding-window anti-farm and overlevel penalty
+- ⚔️ **Scalable damage:** independent melee and ranged formulas with configurable clamps
+- 🏆 **Player ranking:** all-time kills and XP leaderboard + placeholders for scoreboards
+- 🔌 **Plug-and-play:** MMOCore · MythicMobs · LevelledMobs · PlaceholderAPI — all **optional**
+- 🌍 **3 languages:** English, Portuguese and Spanish
+- 🧩 **Public API:** cancellable `CombatXpGainEvent` for other plugins
 
 ---
 
 ### ✦ [NemonicMail](https://github.com/maralto-js/NemonicMail)
-> Sistema de cartas imersivo para roleplay em Minecraft Java 1.21+
+> Immersive letter system for roleplay on Minecraft Java 1.21+
 
-- 📬 **Escrever & Receber:** Interface completa dentro do jogo
-- 🖼️ **Suporte a Imagens:** URL ou upload direto
-- 🔐 **Permissões:** Sistema granular (IMPORTANTE, OFICIAL, etc)
-- 💾 **Persistência:** Dados salvos entre reinicializações
-- 🎨 **Customizável:** Interface inteira via YAML
+- 📬 **Write & Receive:** full in-game interface
+- 🖼️ **Image support:** URL or direct upload
+- 🔐 **Permissions:** granular system (IMPORTANT, OFFICIAL, etc)
+- 💾 **Persistence:** data saved across restarts
+- 🎨 **Customizable:** entire interface via YAML
 
 ---
 
 ### ✦ [minecraft-statusbot](https://github.com/maralto-js/minecraft-statusbot)
-> Bot Discord com painel auto-atualizável de status do servidor Minecraft · Python · MIT
+> Discord bot with a self-updating Minecraft server status panel · Python · MIT
 
-- 📡 **Embed em tempo real:** Status, players online, versão e ping a cada 30s
-- 🔧 **Zero código:** Configuração 100% via slash commands (`/setstatus`, `/setip`, `/settext`...)
-- 🔊 **Canais de voz dinâmicos** com contagem de players atualizada automaticamente
-- ☁️ **Deploy gratuito:** Discloud · Render · Oracle Cloud
+- 📡 **Real-time embed:** status, online players, version and ping every 30s
+- 🔧 **Zero code:** 100% configured via slash commands (`/setstatus`, `/setip`, `/settext`...)
+- 🔊 **Dynamic voice channels** with an auto-updating player count
+- ☁️ **Free deploy:** Discloud · Render · Oracle Cloud
 
 ---
 
-## 🏆 Como trabalho?
+## 🏆 How I work
 
-- ⚡ Crio sistemas que melhoram a **experiência do jogador**
-- 🛠️ Código limpo, modular e extensível
-- 🎮 Inspiração em **ARPGs modernos** e **Mods Nostálgicos** (Diablo, Mo'Creatures)
-- 🤝 Colaboração e feedback da comunidade
+- ⚡ I build systems that improve the **player experience**
+- 🛠️ Clean, modular and extensible code
+- 🎮 Inspired by **modern ARPGs** and **nostalgic mods** (Diablo, Mo'Creatures)
+- 🤝 Community collaboration and feedback
 
 ---
 
