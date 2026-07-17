@@ -50,7 +50,7 @@ Dev Back-End especializado em **Minecraft Java plugins**.
 
 ---
 
-### ✦ [NemonicMail](https://github.com/maralto-js/NemonicMail)
+### ✦ [LetterForge](https://github.com/maralto-js/LetterForge)
 > Sistema de cartas imersivo para roleplay em Minecraft Java 1.21+
 
 - 📬 **Escrever & Receber:** Interface completa dentro do jogo
